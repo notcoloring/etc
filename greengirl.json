@@ -1,17 +1,17 @@
 {
-	"name": "Custom 2",
+	"name": "Minthill",
 	"version": "1.0",
-	"description": "Not coloring.",
+	"description": "A mint colored discord theme for enmity.",
 	"color": "#2E6049",
         "authors": [
 		{
-			"name": "Khuzi",
-			
+			"name": "pwn",
+			"id": "892087916967362560"
 		}
 	],
 	"background": {
 		"blur": 10,
-		"url": "https://raw.githubusercontent.com/notcoloring/etc/2158687467e821e451de33bec7998cb12d1afc00/F46796B1-A9AF-497C-968B-5EEF15DAFF67.png",
+		"url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/.assets/bg/minthillBG.png",
 		"alpha": 1
 	},
 	"theme_color_map": {
